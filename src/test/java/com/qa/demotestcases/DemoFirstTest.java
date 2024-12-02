@@ -11,5 +11,9 @@ public class DemoFirstTest {
 	public void TC2() {
 		System.out.println("This is demo second testcase");
 	}
+	@Test
+	public void TC3() {
+		System.out.println("This is demo third testcase");
+	}
 
 }
